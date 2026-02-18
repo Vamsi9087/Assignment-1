@@ -3,4 +3,4 @@ infosys Springboard Assignment-1 (Cyber Threat Intelligence Assignment – Miles
 
 A short explanation
 {
-Your scoring system helps a cybersecurity analyst prioritize threats by converting each MITRE ATT&CK technique into a simple numeric risk score. Techniques that involve credentials, privilege escalation, lateral movement, or remote/stealthy behavior automatically receive higher scores, so the most dangerous patterns rise to the top of the list. This lets analysts focus first on high‑impact, high‑risk techniques instead of spending time on lower‑risk ones.}
+This scoring system helps cybersecurity analysts prioritize threats by assigning risk scores based on high-impact keywords related to credential access, privilege escalation, execution, and data exfiltration. Techniques are automatically ranked from highest to lowest risk, allowing analysts to focus first on critical threats instead of manually reviewing hundreds of techniques. This improves investigation efficiency and reduces response time during security incidents.}
